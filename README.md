@@ -34,5 +34,8 @@ PhishWard AI acts as an intelligent layer of security that:
 ## 📈 Impact
 PhishWard AI turns complex security analysis into instant, actionable safety advice, making the internet safer for everyone, one link at a time.
 
+## 🎥 Project Video
+Watch the demo: **[Watch on YouTube](https://youtube.com/shorts/_qVDOj-NKLw?si=lXFwQFk4iaE2wO5O)**
+
 ---
 *Built with ❤️ for the Hackathon.*
