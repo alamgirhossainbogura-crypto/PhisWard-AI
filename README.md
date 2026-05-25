@@ -1,4 +1,3 @@
-# PhisWard-AI
 # PhishWard AI 🛡️
 **Your Intelligent Guardian Against Phishing.**
 
@@ -15,7 +14,7 @@ PhishWard AI acts as an intelligent layer of security that:
 * **Detects:** Identifies psychological manipulation (e.g., Fear/Urgency).
 * **Outputs:** Structured JSON for easy integration with security systems.
 
-![PhishWard AI Workflow](phishward-workflow.png)
+![PhishWard AI Workflow](IMG-20260525-WA0013.jpg)
 
 ---
 
