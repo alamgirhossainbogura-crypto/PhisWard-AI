@@ -1,4 +1,4 @@
-# PhishWard AI 🛡️
+⁷# PhishWard AI 🛡️
 **Your Intelligent Guardian Against Phishing.**
 
 PhishWard AI is an advanced security agent that neutralizes phishing threats in real-time. Unlike traditional filters, it utilizes deep reasoning to detect social engineering tactics and provides structured, actionable threat intelligence.
@@ -35,7 +35,7 @@ PhishWard AI acts as an intelligent layer of security that:
 PhishWard AI turns complex security analysis into instant, actionable safety advice, making the internet safer for everyone, one link at a time.
 
 ## 🎥 Project Video
-Watch the demo: **[Watch on YouTube](https://youtube.com/shorts/_qVDOj-NKLw?si=lXFwQFk4iaE2wO5O)**
+Watch the demo: **(https://youtube.com/shorts/_qVDOj-NKLw?si=lXFwQFk4iaE2wO5O)**
 
 ---
 *Built with ❤️ for the Hackathon.*
