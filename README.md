@@ -1,4 +1,4 @@
-⁷# PhishWard AI 🛡️
+# PhishWard AI 🛡️
 **Your Intelligent Guardian Against Phishing.**
 
 PhishWard AI is an advanced security agent that neutralizes phishing threats in real-time. Unlike traditional filters, it utilizes deep reasoning to detect social engineering tactics and provides structured, actionable threat intelligence.
@@ -14,7 +14,13 @@ PhishWard AI acts as an intelligent layer of security that:
 * **Detects:** Identifies psychological manipulation (e.g., Fear/Urgency).
 * **Outputs:** Structured JSON for easy integration with security systems.
 
-![PhishWard AI Workflow](IMG-20260525-WA0013.jpg)
+![PhishWard AI Workflow](phishward-workflow.png)
+
+---
+
+## 🎥 Project Demo
+Watch the PhishWard AI in action here:
+**[Watch the Demo on YouTube](YOUR_YOUTUBE_LINK_HERE)**
 
 ---
 
@@ -26,16 +32,20 @@ PhishWard AI acts as an intelligent layer of security that:
 
 ---
 
+## 🛡️ Key Features
+* **Real-time Reasoning:** Instant analysis powered by Gemini 3.5 Flash.
+* **Psychological Pattern Matching:** Detects human-centric manipulation, not just static blocklists.
+* **System-Ready Output:** Clean JSON output designed for seamless API integration into browsers or mail clients.
+
+## 🔮 Future Scope
+* Integration with Browser Extensions for live URL blocking.
+* Real-time notification system for suspicious mobile SMS alerts.
+* Community-driven threat intelligence dashboard.
+
 ## 💻 Tech Stack
-* **AI Engine:** Gemini 3.5 Flash (for high-speed reasoning)
+* **AI Engine:** Gemini 3.5 Flash
 * **Framework:** Google Agent Platform
 * **Format:** JSON-structured threat intelligence
-
-## 📈 Impact
-PhishWard AI turns complex security analysis into instant, actionable safety advice, making the internet safer for everyone, one link at a time.
-
-## 🎥 Project Video
-Watch the demo: **(https://youtube.com/shorts/_qVDOj-NKLw?si=lXFwQFk4iaE2wO5O)**
 
 ---
 *Built with ❤️ for the Hackathon.*
